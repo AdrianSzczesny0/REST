@@ -1,14 +1,14 @@
-[
-  {
-    "Country": "Poland",
-    "Infected": 15000
-  },
-  {
-    "Country": "USA",
-    "Infected": 999999
-  },
-  {
-    "Country": "China",
-    "Infected": 80000
-  }
-]
+{
+  "Infected": [
+    { "id": 1, "country": "POLAND","count" : 15000},
+    { "id": 2, "country": "USA","count" : 999999 },
+    { "id": 3, "country": "CHINA","count" : 85000 },
+    { "id": 4, "country": "AUSTRALIA","count" : 6800 }
+  ],
+  "Recovered": [
+    { "id": 1, "country": "POLAND","count" : 4000},
+    { "id": 2, "country": "USA","count" : 160000 },
+    { "id": 3, "country": "CHINA","count" : 80000 },
+    { "id": 4, "country": "AUSTRALIA","count" : 6000 }
+  ]
+}
