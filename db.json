@@ -1,5 +1,6 @@
 {
-   "Infected":[
+   "Infected":
+   [
       {
          "id":1,
          "country":"POLAND",
@@ -21,7 +22,8 @@
          "count":6800
       }
    ],
-   "Recovered":[
+   "Recovered":
+   [
       {
          "id":1,
          "country":"POLAND",
@@ -43,54 +45,8 @@
          "count":6000
       }
    ],
-   "Wizyty":[
-      {
-         "Prywatne":[
-            {
-               "id":1,
-               "Imie_pacjenta":"Adrian",
-               "Nazwa_wizyty":"Wizyta_1"
-            },
-            {
-               "id":2,
-               "Imie_pacjenta":"Patrycja",
-               "Nazwa_wizyty":"Wizyta_2"
-            },
-            {
-               "id":3,
-               "Imie_pacjenta":"Kuba",
-               "Nazwa_wizyty":"Wizyta_3"
-            },
-            {
-               "id":4,
-               "Imie_pacjenta":"Karol",
-               "Nazwa_wizyty":"Wizyta_4"
-            }
-         ]
-      },
-      {
-         "Nfz":[
-            {
-               "id":1,
-               "Imie_pacjenta":"Janusz",
-               "Nazwa_wizyty":"Wizyta_5"
-            },
-            {
-               "id":2,
-               "Imie_pacjenta":"Grazyna",
-               "Nazwa_wizyty":"Wizyta_6"
-            },
-            {
-               "id":3,
-               "Imie_pacjenta":"Błażej",
-               "Nazwa_wizyty":"Wizyta_7"
-            },
-            {
-               "id":4,
-               "Imie_pacjenta":"Karyna",
-               "Nazwa_wizyty":"Wizyta_8"
-            }
-         ]
-      }
+   "Badania":
+   [
+      {"id":1, "Nazwa_badania":"Badanie_1"}
    ]
 }
