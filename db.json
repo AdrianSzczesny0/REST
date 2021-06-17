@@ -47,6 +47,11 @@
    ],
    "Badania":
    [
-      {"id":1, "Nazwa_badania":"Badanie_1"}
+      {"id":1, "Nazwa_badania":"Badanie_1","Pacjenci":
+         [
+            {"id":1,"Imie":"Adrian","Nazwisko":"Testowy"}
+            {"id":2,"Imie":"Patrycja","Nazwisko":"Testerska"}
+         ]
+      }
    ]
 }
