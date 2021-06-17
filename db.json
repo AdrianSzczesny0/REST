@@ -55,6 +55,15 @@
             {"id":2,"Imie":"Patrycja","Nazwisko":"Testerska"}
          ],
          "Protokół":"Test_1"
+      },
+      {
+         "id":2, "Nazwa_badania":"Badanie_2",
+         "Pacjenci":
+         [
+            {"id":1,"Imie":"Kuba","Nazwisko":"Testowy"},
+            {"id":2,"Imie":"Karol","Nazwisko":"Testerski"}
+         ],
+         "Protokół":"Test_2"
       }
    ]
 }
